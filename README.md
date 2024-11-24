@@ -38,4 +38,6 @@ Limitations connues
 2.	Compatibilité Intel SDE : Certaines options avancées d'optimisation peuvent ne pas être reconnues selon la version de SDE.
 3.	Latence sonore : Quelques défauts sonores peuvent persister sur certains jeux à forte charge CPU.
 
+DOWNLOAD SDE INTEL : https://www.avhiral.com/download/sde.zip  OU: https://www.intel.com/content/www/us/en/download/684897/intel-software-development-emulator.html
+
 DON PAYPAL : https://www.paypal.com/donate/?hosted_button_id=EZW7NMLW8YG4W
